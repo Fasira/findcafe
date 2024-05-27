@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686647494712",
+    "project_id": "findcafe1",
+    "storage_bucket": "findcafe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686647494712:android:db7b5c510023376f227ecd",
+        "android_client_info": {
+          "package_name": "com.example.minipro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686647494712-in3vo7hq6lnpjia2e5c2mv0k8ufricud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPkRZkJLFQ4brTyfSxqd8q4x-E0szUwXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686647494712-in3vo7hq6lnpjia2e5c2mv0k8ufricud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
